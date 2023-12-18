@@ -1,3 +1,4 @@
+//USING OF FUNCTION TO SOLVE PALINDROME PROGRAM 
 #include <stdio.h>
 
 // Function to check if a number is a palindrome
